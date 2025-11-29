@@ -8,14 +8,14 @@ interface PortfolioProps {
 }
 
 const cuts = [
-  { id: 1, title: '', img: './public/assets/image1.jpg' },
-  { id: 2, title: '', img: './public/assets/image2.jpg' },
-  { id: 3, title: '', img: './public/assets/image3.jpg' },
-  { id: 4, title: '', img: './public/assets/image4.jpg' },
-  { id: 5, title: '', img: './public/assets/image5.jpg' },
-  { id: 6, title: '', img: './public/assets/image6.jpg' },
-  { id: 7, title: '', img: './public/assets/image7.jpg' },
-  { id: 8, title: '', img: './public/assets/image8.jpg' },
+  { id: 1, title: '', img: './assets/image1.jpg' },
+  { id: 2, title: '', img: './assets/image2.jpg' },
+  { id: 3, title: '', img: './assets/image3.jpg' },
+  { id: 4, title: '', img: './assets/image4.jpg' },
+  { id: 5, title: '', img: './assets/image5.jpg' },
+  { id: 6, title: '', img: './assets/image6.jpg' },
+  { id: 7, title: '', img: './assets/image7.jpg' },
+  { id: 8, title: '', img: './assets/image8.jpg' },
 ];
 
 const containerVariants = {
