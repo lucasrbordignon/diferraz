@@ -38,7 +38,7 @@ const App: React.FC = () => {
                initial={{ opacity: 0, scale: 0.8, rotate: -10 }}
                animate={{ opacity: 1, scale: 1, rotate: 0 }}
                transition={{ duration: 0.8, type: "spring" }}
-               src="./assets/logo.png"
+               src="./public/assets/logo.png"
                alt="Barbearia Di Ferraz Logo"
                className="w-full h-full object-contain filter drop-shadow-2xl"
                onError={(e) => {
