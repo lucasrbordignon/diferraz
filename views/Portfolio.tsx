@@ -16,6 +16,8 @@ const cuts = [
   { id: 6, title: '', img: './assets/image6.jpg' },
   { id: 7, title: '', img: './assets/image7.jpg' },
   { id: 8, title: '', img: './assets/image8.jpg' },
+  { id: 9, title: '', img: './assets/image9.jpg' },
+  { id: 10, title: '', img: './assets/image10.jpg' },
 ];
 
 const containerVariants = {

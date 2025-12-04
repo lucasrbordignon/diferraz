@@ -70,12 +70,28 @@ export const Location: React.FC<LocationProps> = ({ onBack }) => {
                 <h3 className="text-white font-medium">Horário de Funcionamento</h3>
                 <ul className="text-zinc-400 text-sm mt-1 space-y-1">
                     <li className="flex justify-between w-full gap-8">
-                        <span>Ter - Sex:</span>
-                        <span className="text-white">07:30 - 20:00</span>
+                        <span>Segunda:</span>
+                        <span className="text-white">08:00 - 18:00</span>
+                    </li>
+                    <li className="flex justify-between w-full gap-8">
+                        <span>Terça:</span>
+                        <span className="text-red-400">Fechado</span>
+                    </li>
+                    <li className="flex justify-between w-full gap-8">
+                        <span>Quarta:</span>
+                        <span className="text-white">08:00 - 20:00</span>
+                    </li>
+                    <li className="flex justify-between w-full gap-8">
+                        <span>Quinta:</span>
+                        <span className="text-white">08:00 - 17:00</span>
+                    </li>
+                    <li className="flex justify-between w-full gap-8">
+                        <span>Sexta:</span>
+                        <span className="text-white">08:00 - 19:00</span>
                     </li>
                     <li className="flex justify-between w-full gap-8">
                         <span>Sábado:</span>
-                        <span className="text-white">07:30 - 18:00</span>
+                        <span className="text-white">07:00 - 14:00</span>
                     </li>
                     <li className="flex justify-between w-full gap-8">
                         <span>Domingo:</span>
